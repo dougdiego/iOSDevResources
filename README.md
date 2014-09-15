@@ -1,4 +1,4 @@
-iOSDevResources
+iOS Dev Resources
 ===============
 
 # Blogs
@@ -14,9 +14,12 @@ iOSDevResources
 # Podcasts
 * [Debug](http://www.imore.com/debug)
 * [Ray Wenderlich](http://www.raywenderlich.com)
+* [Core Intuition](http://www.coreint.org/podcast.xml)
+* [Developing Perspective](http://developingperspective.com/feed/podcast/)
+* [iDeveloper Podcast](http://feeds.feedburner.com/IdeveloperLive)
 
 # Open Source Components
-[Cocoa Controls](https://www.cocoacontrols.com) 
+* [Cocoa Controls](https://www.cocoacontrols.com) 
 
 # CheatSheets
 * [Swift Cheat Sheet and Quick Reference](http://www.raywenderlich.com/73967/swift-cheat-sheet-and-quick-reference)
@@ -33,13 +36,9 @@ iOSDevResources
 * http://www.mobile-patterns.com
 * http://www.lovelyui.com
 
-
-
 # Online Tools
 * [JsonFormatter](http://www.bodurov.com/JsonFormatter/)
  
-
-
 # Other iOS Development Resources Lists
 * http://ios.devtools.me
 * http://www.davemark.com/?p=1829
