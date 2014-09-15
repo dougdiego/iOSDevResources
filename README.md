@@ -10,6 +10,7 @@ iOS Dev Resources
 * [Inessential](http://inessential.com)
 * [Swift Blog](https://developer.apple.com/swift/blog/)
 * [objc.io](http://www.objc.io)
+* [Michael Tsai](http://mjtsai.com/blog/)
  
 # Podcasts
 * [Debug](http://www.imore.com/debug)
