@@ -30,6 +30,7 @@ iOS Dev Resources
 * http://icons8.com
 * http://thenounproject.com
 * http://themify.me/themify-icons
+* http://iconmonstr.com
 
 # Design Patterns
 * http://pttrns.com
