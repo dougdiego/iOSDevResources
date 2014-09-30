@@ -49,3 +49,8 @@ iOS Dev Resources
 * [iPhone 6 Screens Demystified](http://www.paintcodeapp.com/news/iphone-6-screens-demystified)
 * [iPhone Resolutions](http://www.paintcodeapp.com/news/ultimate-guide-to-iphone-resolutions)
 
+
+# Sample Code
+* [iOS-Swift-Demos](https://github.com/Lax/iOS-Swift-Demos) iOS8 UICatalog in OBJ-C and Swift
+
+
