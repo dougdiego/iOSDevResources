@@ -53,4 +53,7 @@ iOS Dev Resources
 # Sample Code
 * [iOS-Swift-Demos](https://github.com/Lax/iOS-Swift-Demos) iOS8 UICatalog in OBJ-C and Swift
 
+# Swift
+* [10 Swift IOS open-source projects](https://medium.com/swift-programming/15-swift-ios-open-source-projects-you-cannot-ignore-6bd4ac37d7dd)
+
 
