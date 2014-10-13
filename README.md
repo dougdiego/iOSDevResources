@@ -55,8 +55,8 @@ iOS Dev Resources
 
 # Swift
 * [10 Swift IOS open-source projects](https://medium.com/swift-programming/15-swift-ios-open-source-projects-you-cannot-ignore-6bd4ac37d7dd)
-* 
+
 # Sounds
-[Octave](http://raisedbeaches.com/octave/) - A free library of UI sounds, handmade for iOS.
+* [Octave](http://raisedbeaches.com/octave/) - A free library of UI sounds, handmade for iOS.
 
 
